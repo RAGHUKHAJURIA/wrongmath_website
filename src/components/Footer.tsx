@@ -10,7 +10,7 @@ const Footer = (props: Props) => {
         },
         {
             link: "#2",
-            image: "/assets/icons/facebook.svg",
+            image: "/assets/icons/Facebook.svg",
         },
         {
             link: "#3",
